@@ -17,7 +17,7 @@ try:
         def _get_imports(self):
             return {
                 **super()._get_imports(),
-                "../utils/roll.js": [ImportVar(tag=ROLL_LOADING_INDICATOR)],
+                "/utils/roll.js": [ImportVar(tag=ROLL_LOADING_INDICATOR)],
             }
 
         def _render(self):
