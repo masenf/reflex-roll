@@ -25,3 +25,5 @@ As a busy developer 😰, you dont have the energy to worry yourself with updati
 your app's actual code, `reflex-roll` will patch your app at compile time on
 your behalf, saving you and your users what precious short time and resources we
 have left on this planet 🌎.
+
+![Roll on Rollercoaster](https://github.com/masenf/reflex-roll/blob/main/src/reflex_roll/ezgif-7-4353d96d35.gif?raw=true)
