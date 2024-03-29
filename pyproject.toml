@@ -4,8 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "reflex_roll"
-description = "A more fun loading indicator your App users will love."
-version = "0.0.1"
+description = "A more fun connection down indicator your App users will love."
+readme = "README.md"
+version = "4.1.2024"
 authors = [{name = "Masen Furer", email = "m_github@0x26.net"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: Apache Software License"]
