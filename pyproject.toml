@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reflex_roll"
+description = "A more fun loading indicator your App users will love."
+version = "0.0.1"
+authors = [{name = "Masen Furer", email = "m_github@0x26.net"}]
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: Apache Software License"]
+
+[project.urls]
+Home = "https://github.com/masenf/reflex-roll"
